@@ -1,7 +1,0 @@
-﻿Context;Target;Condition
-A:發大財了！;B:請我吃飯！;PosResp
-A:發大財了！;B:市長回來了...;NegResp
-;媽媽昨天煮過鮭魚。; PastGuo
-;媽媽明天煎過抓餅。;FutGuo
-;媽媽在吃過牛肉。; ZaiGuo
-;媽媽已經喝過奶茶。;YijingGuo
