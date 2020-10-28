@@ -1,6 +1,6 @@
 # Template for a sentence completion task on pcIBEX
 
-The experiment consists of asking participants to write the last word of each sentence to complete it.
+The experiment consists of asking participants to rate sentences with or without a prior context.
 
 # How to use this code?
 
